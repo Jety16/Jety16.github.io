@@ -77,20 +77,15 @@ footer{
 }
 #input-search {
 	text-align: right;
-	left: 80%;
+	padding-left:
 	display:inline-flex;
-	
-	margin-left:10%;
-	transition: 1s;
-}
-.input{
 	width: 25vw;
+	margin-left:10%;
 }
 /*esto es lo defaulto ahora empieza lo de la pagina principal*/
-
 .border{
 	border: solid black 1px;
-	display: flex;
+	display: inline-block;
 }
 #presentacion {
 	width: 20vw;
@@ -98,16 +93,13 @@ footer{
 	margin-top: 6%;
 	margin-left:3%;
 	object-fit: cover;
-	min-width: 10vw;
 }
-
 #presentacion2 {
 	width: 20vw;
 	height: 20vw;
 	margin-top: 6%;
 	margin-left:3%;
 	object-fit: cover;
-	min-width: 10vw;
 }
 #presentacion3 {
 	width: 20vw;
@@ -115,7 +107,6 @@ footer{
 	margin-top: 6%;
 	margin-left:3%;
 	object-fit: cover;
-	min-width: 10vw;
 }
 #presentacion4 {
 	width: 20vw;
@@ -123,12 +114,10 @@ footer{
 	margin-top: 6%;
 	margin-left:3%;
 	object-fit: cover;
-	min-width: 10vw;
 }
 
 
 /*qweqwe*/
-
 #descripcion {
 	display: inline-block;
 	width: 20vw;
