@@ -79,9 +79,12 @@ footer{
 	text-align: right;
 	left: 80%;
 	display:inline-flex;
-	width: 25vw;
+	
 	margin-left:10%;
 	transition: 1s;
+}
+.input{
+	width: 25vw;
 }
 /*esto es lo defaulto ahora empieza lo de la pagina principal*/
 
