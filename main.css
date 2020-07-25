@@ -85,31 +85,39 @@ footer{
 /*esto es lo defaulto ahora empieza lo de la pagina principal*/
 .border{
 	border: solid black 1px;
-	display: inline-block;
+	display: flex;
 }
 #presentacion {
 	width: 20vw;
 	height: 20vw;
 	margin-top: 6%;
 	margin-left:3%;
+	object-fit: cover;
+	min-width: 10vw;
 }
 #presentacion2 {
 	width: 20vw;
 	height: 20vw;
 	margin-top: 6%;
 	margin-left:3%;
+	object-fit: cover;
+	min-width: 10vw;
 }
 #presentacion3 {
 	width: 20vw;
 	height: 20vw;
 	margin-top: 6%;
 	margin-left:3%;
+	object-fit: cover;
+	min-width: 10vw;
 }
 #presentacion4 {
 	width: 20vw;
 	height: 20vw;
 	margin-top: 6%;
 	margin-left:3%;
+	object-fit: cover;
+	min-width: 10vw;
 }
 
 
