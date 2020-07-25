@@ -50,6 +50,7 @@ body{
 }
 
 nav	{
+	position: sticky;
 	display:inline-block;
 	background-color: #52182C;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
